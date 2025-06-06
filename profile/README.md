@@ -1,4 +1,4 @@
-## Hi there 👋
+## 基于 vnpy 的期货量化交易系统 👋
 
 <!--
 
@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+项目致力于降低国内期货量化交易准入门槛，助力手动交易者轻松跨越至量化交易领域，使其摆脱繁琐技术束缚，心无旁骛投身策略创意构思与优化打磨，尽情探索量化交易无限可能，畅享技术赋能交易升级新体验。
