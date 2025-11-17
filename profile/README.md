@@ -1,4 +1,11 @@
-## Futures quantitative trading system based on Python 👋
+<div align="center">
+  <img alt="Strategy Management" src="strategy_management.png"/>
+</div>
+<p>&nbsp;</p>
+
+<p align="center">
+  <font size="5px">✨ Futures quantitative trading system based on Python ✨</font>
+</p>
 
 <!--
 
