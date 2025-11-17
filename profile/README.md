@@ -5,7 +5,6 @@
 
 <p align="center">
   <font size="5px">✨ A Python-based quantitative trading system applicable to the Chinese futures market ✨</font>
-    <font size="5px">✨ 适用于中国期货市场的基于Python的量化交易系统 ✨</font>
 </p>
 
 
